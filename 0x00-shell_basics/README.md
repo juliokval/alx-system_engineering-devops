@@ -1,2 +1,1 @@
-#!/bin/bash
-My second Readme
+My second readme
